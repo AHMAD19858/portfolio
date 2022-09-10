@@ -32,7 +32,7 @@ function Contact() {
       <h1>Contact with me</h1>
       <div className="container">
         {data.map((d) => (
-          <a className={d.featured ? "card featured" : "card"} href={d.link} target="_blank">
+          <a className={d.featured ? "card featured" : "card"} href={d.link} rel="noreferrer" target="_blank">
             <div className="top">
               <img src="assets/right-arrow.png" className="left" alt="" />
               <img
