@@ -1,14 +1,13 @@
 import React from 'react'
 import "./testmonials.scss";
+import omar from "../../assets/omar.jpg"
 function testmonials() {
   const data = [
     {
       id: 1,
-      name: "Tom Durden",
-      title: "Senior Developer",
-      img:
-        "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-
+      name: "Omar Ahmed",
+      title: "Front-end Developer",
+      img: omar,
       desc:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem.",
     },
@@ -18,7 +17,6 @@ function testmonials() {
       title: "Co-Founder of DELKA",
       img:
         "https://images.pexels.com/photos/428321/pexels-photo-428321.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-
       desc:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem recusandae perspiciatis ducimus vel hic temporibus. ",
       featured: true,
