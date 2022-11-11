@@ -90,7 +90,7 @@ export const mobilePortfolio = [
   {
     id: 6,
     title: "Social App",
-    img: "assets/projects/SocialApp.png",
+    img: "assets/projects/Capturee.png",
     /* link: "https://github.com/AHMAD19858/ToDoList", */
   },
 ];
