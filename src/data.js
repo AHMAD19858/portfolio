@@ -34,6 +34,7 @@ export const featuredPortfolio = [
     img: "assets/projects/todo.png",
     link: "https://github.com/AHMAD19858/ToDoList",
   },
+
 ];
 
 export const webPortfolio = [
@@ -43,7 +44,15 @@ export const webPortfolio = [
     img: "assets/projects/motton2.png",
     link: "https://www.motoonacademy.com/"
   },
- 
+  {
+    id: 2,
+    title: "Travel website",
+    img: "assets/projects/travel.png",
+    link: "https://github.com/AHMAD19858/ToDoList",
+  },
+
+
+
 ];
 
 export const mobilePortfolio = [
@@ -76,6 +85,13 @@ export const mobilePortfolio = [
     id: 5,
     title: "Movies App",
     img: "assets/projects/movies.png",
+  },
+
+  {
+    id: 6,
+    title: "Social App",
+    img: "assets/projects/social.png",
+    link: "https://github.com/AHMAD19858/ToDoList",
   },
 ];
 

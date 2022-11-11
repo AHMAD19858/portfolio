@@ -1,24 +1,25 @@
 import React from 'react'
 import "./testmonials.scss";
 import omar from "../../assets/omar.jpg"
+import rewan from "../../assets/friends/rewan.jfif"
+
 function testmonials() {
   const data = [
     {
       id: 1,
       name: "Omar Ahmed",
-      title: "Front-end Developer",
+      title: "Front-end Engineer",
       img: omar,
       desc:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem.",
     },
     {
       id: 2,
-      name: "Alex Kalinski",
-      title: "Co-Founder of DELKA",
-      img:
-        "https://images.pexels.com/photos/428321/pexels-photo-428321.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      name: "Rewan Gameel",
+      title: "Software Enginner",
+      img: rewan,
       desc:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem recusandae perspiciatis ducimus vel hic temporibus. ",
+        "Besides being super cooperative and helpful, Ahmed is a delight to work with and a skilled developer, goal oriented and self motivated. It was a pleasure working alongside with him.",
       featured: true,
     },
     {
