@@ -58,6 +58,16 @@
             margin: 1px;
           }
       }
+      &.connect {
+        width: 300px;
+        height: 60%;
+        margin: 0 30px;
+
+        @include mobile {
+          width: 250px;
+          margin: 1px;
+        }
+      }
 
       &:hover{
           transform: scale(1.1);

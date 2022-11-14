@@ -11,7 +11,7 @@ function testmonials() {
       title: "Front-end Engineer",
       img: omar,
       desc:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem.",
+        "Ahmed is a hard-working, continue to developing and committed person. He always looks forward to the next and maintain constant upgrade of his knowledge.",
     },
     {
       id: 2,
