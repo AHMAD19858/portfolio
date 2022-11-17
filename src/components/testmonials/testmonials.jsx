@@ -22,7 +22,7 @@ function testmonials() {
         "Besides being super cooperative and helpful, Ahmed is a delight to work with and a skilled developer, goal oriented and self motivated. It was a pleasure working alongside with him.",
       featured: true,
     },
-    {
+/*     {
       id: 3,
       name: "Martin Harold",
       title: "CEO of ALBI",
@@ -31,7 +31,7 @@ function testmonials() {
 
       desc:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem",
-    },
+    }, */
   ];
   return (
     <div className="testimonials" id="testimonials">
