@@ -10,7 +10,7 @@ export default function Intro() {
       showCursor: true,
       backDelay: 1500,
       backSpeed:60,
-      strings: ["front-end engineer (react | anguler)", "mobile engineer (react native)"],
+      strings: ["front-end engineer (react | anguler | nuxt)", "mobile engineer (react native)"],
     });
   }, []);
 

@@ -1,10 +1,10 @@
 export const featuredPortfolio = [
-/*   {
+  {
     id: 1,
     title: "Motoon Academy (mobile app)",
     img: "assets/projects/motton1.png",
     link: "https://play.google.com/store/apps/details?id=com.moton_app",
-  }, */
+  },
   {
     id: 2,
     title: "Motoon Academy (website)",
@@ -30,9 +30,9 @@ export const featuredPortfolio = [
   },
   {
     id: 6,
-    title: "To-do App",
-    img: "assets/projects/todo.png",
-    link: "https://github.com/AHMAD19858/ToDoList",
+    title: "Dashboard system",
+    img: "assets/projects/dashboard.jpg",
+    link: "https://dashboard-system-ten.vercel.app/",
   },
 
 ];
@@ -51,18 +51,23 @@ export const webPortfolio = [
     link: "https://www.behance.net/gallery/90590079/Travel-Agency",
   },
 
-
+  {
+    id: 3,
+    title: "Dashboard system",
+    img: "assets/projects/dashboard.jpg",
+    link: "https://dashboard-system-ten.vercel.app/",
+  },
 
 ];
 
 export const mobilePortfolio = [
 
- /*  {
+  {
     id: 1,
     title: "Motoon Academy (mobile app)",
     img: "assets/projects/motton1.png",
     link: "https://play.google.com/store/apps/details?id=com.moton_app",
-  }, */
+  },
   {
     id: 2,
     title: "Huda Application",
